@@ -1,0 +1,11 @@
+@import './scss/reset';
+@import './scss/header';
+@import './scss/popUpMenu';
+@import './scss/home';
+@import './scss/menuLarge';
+
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
